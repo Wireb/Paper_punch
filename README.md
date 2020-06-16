@@ -1,6 +1,13 @@
-# Paper_punch
+# Decitek Paper Punch
 
-Work in progress. There is at least one section of the logics that currently do not make sense and likely contain an error. 
+Work in progress. 
+
+Things left to do:
+Find bugs
+driver board parts placement diagram
+regulator board (likely will add to the backplane logics) 
+
+Will release the kicad files once I am fairly positive all the major bugs are gone. 
 
 
  
