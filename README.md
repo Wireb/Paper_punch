@@ -3,9 +3,9 @@
 Work in progress. 
 
 Things left to do:
-Find bugs
-driver board parts placement diagram
-regulator board (likely will add to the backplane logics) 
+1. Find bugs
+1. driver board parts placement diagram
+1. regulator board (likely will add to the backplane logics) 
 
 Will release the kicad files once I am fairly positive all the major bugs are gone. 
 
